@@ -1,16 +1,19 @@
-### Hi there 👋
+# Anhelina Vrubleuskaya
+## Front-end developer
+###### 📍 Minsk
 
-<!--
-**AnhelinaVr/AnhelinaVr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Contact info:
+- phone: +375293955410 (A1)
+- e-mail: gelina242@gmail.com or
+anhelina.vr@yandex.by
+- telegram: @AnhelinaVr
+- discord: AnhelinaVr#5199
+- skype: angello223
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📝
+I am very motivated to become a professional in front-end development. I am very interested in professional growth, I am quick learner and I enjoy the learning process. I am known for being personable in my field, having good analytical skills, stress tolerance and working capacity.
+
+![My Codewarrior Profile Badge](https://www.codewars.com/users/AnhelinaVr/badges/small)
+
+[My CV](https://anhelina-vrubleuskaya-cv.netlify.app/)
