@@ -1,17 +1,10 @@
 # Anhelina Vrubleuskaya
-## FE/BE developer (JS, Node.js)
-###### 📍 Minsk
+## BE developer (Node.js, AWS)
+###### 📍 Tashkent, UZ
 
 
 ### Contact info:
-- phone: +375293955410 (A1)
-- e-mail: anhelina.vr@gmail.com or
-anhelina.vr@yandex.by
+- e-mail: anhelina.vr@gmail.com
 - telegram: @AnhelinaVr
 - discord: AnhelinaVr#5199
 - skype: angello223
-
-# 📝
-
-![My Codewarrior Profile Badge](https://www.codewars.com/users/AnhelinaVr/badges/small)
-
