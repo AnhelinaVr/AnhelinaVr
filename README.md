@@ -1,5 +1,5 @@
 # Anhelina Vrubleuskaya
-## BE developer (Node.js, AWS)
+## Full-stack developer (React, Node.js, AWS)
 ###### 📍 Tashkent, UZ
 
 
